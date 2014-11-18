@@ -1,5 +1,5 @@
 === WIMTVPRO ===
-Contributors: Wimlabs
+Contributors: WimLabs
 Tags: video, plugin, admin, media, live, on demand, streaming, playlist, web, tv, webtv, gallery, embed, channel, broadcast, stream, manage, wimtv, wimtvpro, player
 Requires at least: 3.4
 Tested up to: 3.4
@@ -35,8 +35,6 @@ WimTVPro allows its users to:
 
 The plugin is integrated into the menu and is divided in section, to always have an ordered control of content.
 For more details about WimTVPro's functionalities visit: http://wimtvpro.tv/functionalities.html
-
-Demo site: http://casacanada.eu/sbaruarocktour
  
 == Installation ==
 
